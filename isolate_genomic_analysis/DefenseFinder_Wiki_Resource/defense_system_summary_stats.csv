@@ -1,0 +1,232 @@
+genus,species,n_isolates,min_defense_systems,max_defense_systems,median_defense_systems,mean_defense_systems
+Corynebacterium,Corynebacterium accolens,1,7,7,7,7
+Corynebacterium,Corynebacterium ammoniagenes,2,3,4,3.5,3.5
+Corynebacterium,Corynebacterium amycolatum,5,0,7,5,4
+Corynebacterium,Corynebacterium anserum,1,3,3,3,3
+Corynebacterium,Corynebacterium aquilae,1,4,4,4,4
+Corynebacterium,Corynebacterium argentoratense,1,1,1,1,1
+Corynebacterium,Corynebacterium atypicum,1,8,8,8,8
+Corynebacterium,Corynebacterium aurimucosum,2,6,8,7,7
+Corynebacterium,Corynebacterium bovis,1,6,6,6,6
+Corynebacterium,Corynebacterium camporealensis,2,4,6,5,5
+Corynebacterium,Corynebacterium casei,1,14,14,14,14
+Corynebacterium,Corynebacterium comes,1,6,6,6,6
+Corynebacterium,Corynebacterium coyleae,2,7,11,9,9
+Corynebacterium,Corynebacterium crudilactis,1,6,6,6,6
+Corynebacterium,Corynebacterium cyclohexanicum,1,6,6,6,6
+Corynebacterium,Corynebacterium cystitidis,1,11,11,11,11
+Corynebacterium,Corynebacterium deserti,1,8,8,8,8
+Corynebacterium,Corynebacterium diphtheriae,19,7,12,9,9.37
+Corynebacterium,Corynebacterium doosanense,1,5,5,5,5
+Corynebacterium,Corynebacterium efficiens,1,7,7,7,7
+Corynebacterium,Corynebacterium endometrii,1,5,5,5,5
+Corynebacterium,Corynebacterium epidermidicanis,1,6,6,6,6
+Corynebacterium,Corynebacterium falsenii,2,6,8,7,7
+Corynebacterium,Corynebacterium flavescens,1,9,9,9,9
+Corynebacterium,Corynebacterium frankenforstense,1,4,4,4,4
+Corynebacterium,Corynebacterium freneyi,2,5,6,5.5,5.5
+Corynebacterium,Corynebacterium gerontici,1,5,5,5,5
+Corynebacterium,Corynebacterium glaucum,1,4,4,4,4
+Corynebacterium,Corynebacterium glucuronolyticum,4,6,11,7.5,8
+Corynebacterium,Corynebacterium glutamicum,25,2,9,5,6.08
+Corynebacterium,Corynebacterium glyciniphilum,1,5,5,5,5
+Corynebacterium,Corynebacterium halotolerans,1,2,2,2,2
+Corynebacterium,Corynebacterium hindlerae,1,9,9,9,9
+Corynebacterium,Corynebacterium humireducens,1,10,10,10,10
+Corynebacterium,Corynebacterium imitans,2,5,5,5,5
+Corynebacterium,Corynebacterium jeikeium,3,2,5,4,3.67
+Corynebacterium,Corynebacterium kalinowskii,1,2,2,2,2
+Corynebacterium,Corynebacterium kefirresidentii,1,8,8,8,8
+Corynebacterium,Corynebacterium kroppenstedtii,2,3,3,3,3
+Corynebacterium,Corynebacterium kutscheri,4,4,7,5,5.25
+Corynebacterium,Corynebacterium lactis,1,7,7,7,7
+Corynebacterium,Corynebacterium liangguodongii,1,5,5,5,5
+Corynebacterium,Corynebacterium lizhenjunii,1,12,12,12,12
+Corynebacterium,Corynebacterium lujinxingii,1,5,5,5,5
+Corynebacterium,Corynebacterium macginleyi,3,5,6,6,5.67
+Corynebacterium,Corynebacterium marinum,1,4,4,4,4
+Corynebacterium,Corynebacterium maris,1,6,6,6,6
+Corynebacterium,Corynebacterium matruchotii,2,4,8,6,6
+Corynebacterium,Corynebacterium minutissimum,5,4,5,4,4.2
+Corynebacterium,Corynebacterium mustelae,1,7,7,7,7
+Corynebacterium,Corynebacterium nuruki,1,8,8,8,8
+Corynebacterium,Corynebacterium occultum,1,6,6,6,6
+Corynebacterium,Corynebacterium pelargi,1,4,4,4,4
+Corynebacterium,Corynebacterium phocae,1,13,13,13,13
+Corynebacterium,Corynebacterium poyangense,1,5,5,5,5
+Corynebacterium,Corynebacterium propinquum,3,3,7,3,4.33
+Corynebacterium,Corynebacterium provencense,1,6,6,6,6
+Corynebacterium,Corynebacterium pseudodiphtheriticum,3,7,13,7,9
+Corynebacterium,Corynebacterium pseudopelargi,1,2,2,2,2
+Corynebacterium,Corynebacterium pseudotuberculosis,99,1,4,3,2.74
+Corynebacterium,Corynebacterium qintianiae,1,4,4,4,4
+Corynebacterium,Corynebacterium ramonii,1,6,6,6,6
+Corynebacterium,Corynebacterium renale,2,6,7,6.5,6.5
+Corynebacterium,Corynebacterium resistens,1,7,7,7,7
+Corynebacterium,Corynebacterium riegelii,1,9,9,9,9
+Corynebacterium,Corynebacterium rouxii,1,11,11,11,11
+Corynebacterium,Corynebacterium sanguinis,1,7,7,7,7
+Corynebacterium,Corynebacterium segmentosum,1,5,5,5,5
+Corynebacterium,Corynebacterium silvaticum,1,3,3,3,3
+Corynebacterium,Corynebacterium simulans,2,6,6,6,6
+Corynebacterium,Corynebacterium singulare,1,10,10,10,10
+Corynebacterium,Corynebacterium sp. ATCC 6931,1,3,3,3,3
+Corynebacterium,Corynebacterium sp. CNCTC7651,1,6,6,6,6
+Corynebacterium,Corynebacterium sp. FDAARGOS 1242,1,4,4,4,4
+Corynebacterium,Corynebacterium sp. NML98-0116,1,7,7,7,7
+Corynebacterium,Corynebacterium sp. sy039,1,7,7,7,7
+Corynebacterium,Corynebacterium sphenisci,1,2,2,2,2
+Corynebacterium,Corynebacterium stationis,3,4,6,4,4.67
+Corynebacterium,Corynebacterium striatum,6,5,11,8.5,8
+Corynebacterium,Corynebacterium suranareeae,1,6,6,6,6
+Corynebacterium,Corynebacterium terpenotabidum,1,10,10,10,10
+Corynebacterium,Corynebacterium testudinoris,1,13,13,13,13
+Corynebacterium,Corynebacterium tuberculostearicum,2,4,7,5.5,5.5
+Corynebacterium,Corynebacterium uberis,6,3,4,3,3.33
+Corynebacterium,Corynebacterium ulcerans,13,3,6,3,3.62
+Corynebacterium,Corynebacterium urealyticum,3,9,10,10,9.67
+Corynebacterium,Corynebacterium ureicelerivorans,1,5,5,5,5
+Corynebacterium,Corynebacterium urogenitale,1,2,2,2,2
+Corynebacterium,Corynebacterium uterequi,1,4,4,4,4
+Corynebacterium,Corynebacterium variabile,1,4,4,4,4
+Corynebacterium,Corynebacterium vitaeruminis,1,12,12,12,12
+Corynebacterium,Corynebacterium xerosis,2,5,7,6,6
+Corynebacterium,Corynebacterium yudongzhengii,1,3,3,3,3
+Corynebacterium,Corynebacterium zhongnanshanii,1,6,6,6,6
+Cutibacterium,Cutibacterium acnes,15,0,4,1,1.2
+Cutibacterium,Cutibacterium avidum,6,5,11,7.5,8
+Cutibacterium,Cutibacterium granulosum,1,3,3,3,3
+Cutibacterium,Cutibacterium modestum,2,0,0,0,0
+Staphylococcus,Staphylococcus agnetis,3,2,4,3,3
+Staphylococcus,Staphylococcus argenteus,14,3,8,4,4.71
+Staphylococcus,Staphylococcus arlettae,3,1,3,3,2.33
+Staphylococcus,Staphylococcus aureus,770,1,13,5,5
+Staphylococcus,Staphylococcus auricularis,3,5,6,5,5.33
+Staphylococcus,Staphylococcus capitis,6,1,5,3.5,3.17
+Staphylococcus,Staphylococcus caprae,5,2,7,3,3.6
+Staphylococcus,Staphylococcus carnosus,5,1,6,3,3.4
+Staphylococcus,Staphylococcus chromogenes,2,4,7,5.5,5.5
+Staphylococcus,Staphylococcus cohnii,2,3,5,4,4
+Staphylococcus,Staphylococcus condimenti,5,1,5,1,2
+Staphylococcus,Staphylococcus debuckii,1,7,7,7,7
+Staphylococcus,Staphylococcus delphini,3,9,10,10,9.67
+Staphylococcus,Staphylococcus edaphicus,1,4,4,4,4
+Staphylococcus,Staphylococcus epidermidis,93,0,7,2,2.17
+Staphylococcus,Staphylococcus equorum,8,3,6,4.5,4.5
+Staphylococcus,Staphylococcus felis,2,5,5,5,5
+Staphylococcus,Staphylococcus haemolyticus,19,1,12,2,2.84
+Staphylococcus,Staphylococcus hominis,7,1,4,4,3.14
+Staphylococcus,Staphylococcus hyicus,2,2,2,2,2
+Staphylococcus,Staphylococcus kloosii,1,2,2,2,2
+Staphylococcus,Staphylococcus lloydii,1,1,1,1,1
+Staphylococcus,Staphylococcus lugdunensis,21,0,4,2,1.57
+Staphylococcus,Staphylococcus lutrae,1,7,7,7,7
+Staphylococcus,Staphylococcus muscae,2,1,1,1,1
+Staphylococcus,Staphylococcus nepalensis,3,1,4,3,2.67
+Staphylococcus,Staphylococcus pasteuri,5,2,4,3,2.8
+Staphylococcus,Staphylococcus pettenkoferi,2,4,5,4.5,4.5
+Staphylococcus,Staphylococcus piscifermentans,1,2,2,2,2
+Staphylococcus,Staphylococcus pseudintermedius,36,3,10,6,6.67
+Staphylococcus,Staphylococcus ratti,1,6,6,6,6
+Staphylococcus,Staphylococcus roterodami,3,2,4,3,3
+Staphylococcus,Staphylococcus saccharolyticus,3,0,1,0,0.33
+Staphylococcus,Staphylococcus saprophyticus,14,0,5,2,2.5
+Staphylococcus,Staphylococcus schleiferi,7,1,6,5,4.14
+Staphylococcus,Staphylococcus schweitzeri,1,6,6,6,6
+Staphylococcus,Staphylococcus shinii,1,0,0,0,0
+Staphylococcus,Staphylococcus simiae,2,4,5,4.5,4.5
+Staphylococcus,Staphylococcus simulans,8,6,10,6,7
+Staphylococcus,Staphylococcus sp. 11-B-312,1,1,1,1,1
+Staphylococcus,Staphylococcus sp. 17KM0847,1,6,6,6,6
+Staphylococcus,Staphylococcus sp. AntiMn-1,1,2,2,2,2
+Staphylococcus,Staphylococcus sp. HL28,1,3,3,3,3
+Staphylococcus,Staphylococcus sp. M0911,1,3,3,3,3
+Staphylococcus,Staphylococcus sp. MI 10-1553,1,9,9,9,9
+Staphylococcus,Staphylococcus sp. MZ1,1,7,7,7,7
+Staphylococcus,Staphylococcus sp. MZ3,1,9,9,9,9
+Staphylococcus,Staphylococcus sp. MZ7,1,9,9,9,9
+Staphylococcus,Staphylococcus sp. MZ8,1,6,6,6,6
+Staphylococcus,Staphylococcus sp. MZ9,1,7,7,7,7
+Staphylococcus,Staphylococcus sp. SB1-57,1,1,1,1,1
+Staphylococcus,Staphylococcus sp. SM3655,1,6,6,6,6
+Staphylococcus,Staphylococcus sp. SM9054,1,6,6,6,6
+Staphylococcus,Staphylococcus sp. T93,1,4,4,4,4
+Staphylococcus,Staphylococcus succinus,1,3,3,3,3
+Staphylococcus,Staphylococcus warneri,10,0,5,2,2
+Staphylococcus,Staphylococcus xylosus,9,0,4,3,2.33
+Streptococcus,Streptococcus acidominimus,1,8,8,8,8
+Streptococcus,Streptococcus agalactiae,81,2,9,5,4.88
+Streptococcus,Streptococcus anginosus,8,4,10,6,6.75
+Streptococcus,Streptococcus australis,3,1,7,3,3.67
+Streptococcus,Streptococcus canis,6,5,6,5,5.33
+Streptococcus,Streptococcus chenjunshii,1,7,7,7,7
+Streptococcus,Streptococcus constellatus,3,6,7,7,6.67
+Streptococcus,Streptococcus cristatus,2,3,8,5.5,5.5
+Streptococcus,Streptococcus dysgalactiae,16,2,7,5,4.56
+Streptococcus,Streptococcus equi,19,2,8,5,4.63
+Streptococcus,Streptococcus equinus,7,1,10,5,5.29
+Streptococcus,Streptococcus ferus,1,5,5,5,5
+Streptococcus,Streptococcus gallolyticus,3,3,3,3,3
+Streptococcus,Streptococcus gordonii,12,0,6,4,4.08
+Streptococcus,Streptococcus gwangjuense,1,8,8,8,8
+Streptococcus,Streptococcus halichoeri,1,4,4,4,4
+Streptococcus,Streptococcus halotolerans,1,5,5,5,5
+Streptococcus,Streptococcus himalayensis,1,5,5,5,5
+Streptococcus,Streptococcus ilei,2,4,6,5,5
+Streptococcus,Streptococcus infantarius,2,4,6,5,5
+Streptococcus,Streptococcus infantis,1,2,2,2,2
+Streptococcus,Streptococcus iniae,6,3,5,5,4.33
+Streptococcus,Streptococcus intermedius,4,3,5,4,4
+Streptococcus,Streptococcus koreensis,1,6,6,6,6
+Streptococcus,Streptococcus lactarius,1,8,8,8,8
+Streptococcus,Streptococcus lutetiensis,5,4,6,4,4.6
+Streptococcus,Streptococcus marmotae,1,5,5,5,5
+Streptococcus,Streptococcus merionis,1,3,3,3,3
+Streptococcus,Streptococcus milleri,2,5,6,5.5,5.5
+Streptococcus,Streptococcus mitis,7,4,13,4,7.14
+Streptococcus,Streptococcus mutans,15,5,13,9,9.53
+Streptococcus,Streptococcus oralis,14,1,12,6.5,6.93
+Streptococcus,Streptococcus oriscaviae,1,8,8,8,8
+Streptococcus,Streptococcus pantholopis,1,7,7,7,7
+Streptococcus,Streptococcus parasanguinis,1,3,3,3,3
+Streptococcus,Streptococcus parasuis,3,7,8,8,7.67
+Streptococcus,Streptococcus parauberis,1,2,2,2,2
+Streptococcus,Streptococcus pasteurianus,1,4,4,4,4
+Streptococcus,Streptococcus periodonticum,1,5,5,5,5
+Streptococcus,Streptococcus pluranimalium,2,5,8,6.5,6.5
+Streptococcus,Streptococcus pneumoniae,109,1,8,5,4.77
+Streptococcus,Streptococcus porcinus,4,0,4,3,2.5
+Streptococcus,Streptococcus pseudopneumoniae,1,13,13,13,13
+Streptococcus,Streptococcus pseudoporcinus,3,0,4,3,2.33
+Streptococcus,Streptococcus pyogenes,230,1,5,3,2.94
+Streptococcus,Streptococcus ratti,1,4,4,4,4
+Streptococcus,Streptococcus respiraculi,1,4,4,4,4
+Streptococcus,Streptococcus rubneri,1,6,6,6,6
+Streptococcus,Streptococcus ruminantium,4,6,11,9,8.75
+Streptococcus,Streptococcus ruminicola,3,4,7,5,5.33
+Streptococcus,Streptococcus salivarius,16,0,9,5,4.75
+Streptococcus,Streptococcus sanguinis,6,2,7,4.5,4.5
+Streptococcus,Streptococcus sobrinus,6,4,9,4.5,5.17
+Streptococcus,Streptococcus sp. 'group B',1,8,8,8,8
+Streptococcus,Streptococcus sp. 116-D4,1,1,1,1,1
+Streptococcus,Streptococcus sp. 1643,1,5,5,5,5
+Streptococcus,Streptococcus sp. A12,1,5,5,5,5
+Streptococcus,Streptococcus sp. DAT741,1,10,10,10,10
+Streptococcus,Streptococcus sp. FDAARGOS_192,1,4,4,4,4
+Streptococcus,Streptococcus sp. FDAARGOS_520,1,7,7,7,7
+Streptococcus,Streptococcus sp. FDAARGOS_521,1,3,3,3,3
+Streptococcus,Streptococcus sp. FDAARGOS_522,1,5,5,5,5
+Streptococcus,Streptococcus sp. LPB0220,1,4,4,4,4
+Streptococcus,Streptococcus sp. Marseille-Q3533,1,1,1,1,1
+Streptococcus,Streptococcus sp. NCTC 11567,1,4,4,4,4
+Streptococcus,Streptococcus sp. NPS 308,1,5,5,5,5
+Streptococcus,Streptococcus sp. oral taxon 061,1,6,6,6,6
+Streptococcus,Streptococcus sp. oral taxon 431,1,4,4,4,4
+Streptococcus,Streptococcus sp. zg-86,1,4,4,4,4
+Streptococcus,Streptococcus suis,67,3,14,8,8.46
+Streptococcus,Streptococcus thermophilus,71,2,12,6,6.37
+Streptococcus,Streptococcus troglodytae,1,5,5,5,5
+Streptococcus,Streptococcus uberis,3,2,8,5,5
+Streptococcus,Streptococcus urinalis,1,6,6,6,6
+Streptococcus,Streptococcus vestibularis,1,4,4,4,4
+Streptococcus,Streptococcus viridans,1,3,3,3,3

@@ -1,0 +1,215 @@
+Lineage,spacer_name,n,Dataset,Subphylogroup,colony_count,TreeTipLabel,order,Phylogroup,NewTreeTipLabel,percentage
+acera107,unknown_CRISPR_type(1E)_131,4,Baker2023,K.1.2,4,0CC2K_S1A57,314,K,Researcher - Lineage 107,1
+acera107,unknown_CRISPR_type(1E)_182,4,Baker2023,K.1.2,4,0CC2K_S1A57,314,K,Researcher - Lineage 107,1
+acera107,unknown_CRISPR_type(1E)_186,4,Baker2023,K.1.2,4,0CC2K_S1A57,314,K,Researcher - Lineage 107,1
+acera107,unknown_CRISPR_type(1E)_187,4,Baker2023,K.1.2,4,0CC2K_S1A57,314,K,Researcher - Lineage 107,1
+acera107,unknown_CRISPR_type(1E)_32,3,Baker2023,K.1.2,4,0CC2K_S1A57,314,K,Researcher - Lineage 107,0.75
+acera107,unknown_CRISPR_type(1E)_4,4,Baker2023,K.1.2,4,0CC2K_S1A57,314,K,Researcher - Lineage 107,1
+acera107,unknown_CRISPR_type(1E)_48,4,Baker2023,K.1.2,4,0CC2K_S1A57,314,K,Researcher - Lineage 107,1
+acera107,unknown_CRISPR_type(1E)_54,4,Baker2023,K.1.2,4,0CC2K_S1A57,314,K,Researcher - Lineage 107,1
+acera107,unknown_CRISPR_type(1E)_62,4,Baker2023,K.1.2,4,0CC2K_S1A57,314,K,Researcher - Lineage 107,1
+acera112,unknown_CRISPR_type(1E)_131,2,Baker2023,K.1.2,2,1PA1F_X0387,310,K,Family 1 - Adult 1 - Lineage 112 - TP1,1
+acera112,unknown_CRISPR_type(1E)_136,2,Baker2023,K.1.2,2,1PA1F_X0387,310,K,Family 1 - Adult 1 - Lineage 112 - TP1,1
+acera112,unknown_CRISPR_type(1E)_186,2,Baker2023,K.1.2,2,1PA1F_X0387,310,K,Family 1 - Adult 1 - Lineage 112 - TP1,1
+acera112,unknown_CRISPR_type(1E)_187,2,Baker2023,K.1.2,2,1PA1F_X0387,310,K,Family 1 - Adult 1 - Lineage 112 - TP1,1
+acera112,unknown_CRISPR_type(1E)_32,1,Baker2023,K.1.2,2,1PA1F_X0387,310,K,Family 1 - Adult 1 - Lineage 112 - TP1,0.5
+acera112,unknown_CRISPR_type(1E)_4,2,Baker2023,K.1.2,2,1PA1F_X0387,310,K,Family 1 - Adult 1 - Lineage 112 - TP1,1
+acera112,unknown_CRISPR_type(1E)_50,2,Baker2023,K.1.2,2,1PA1F_X0387,310,K,Family 1 - Adult 1 - Lineage 112 - TP1,1
+acera112,unknown_CRISPR_type(1E)_54,2,Baker2023,K.1.2,2,1PA1F_X0387,310,K,Family 1 - Adult 1 - Lineage 112 - TP1,1
+acera112,unknown_CRISPR_type(1E)_62,2,Baker2023,K.1.2,2,1PA1F_X0387,310,K,Family 1 - Adult 1 - Lineage 112 - TP1,1
+acera115,unknown_CRISPR_type(1E)_119,2,Baker2023,K.1.2,2,2PA1C_X0663,325,K,Family 2 - Adult 1 - Lineage 115 - TP1,1
+acera115,unknown_CRISPR_type(1E)_162,2,Baker2023,K.1.2,2,2PA1C_X0663,325,K,Family 2 - Adult 1 - Lineage 115 - TP1,1
+acera115,unknown_CRISPR_type(1E)_32,2,Baker2023,K.1.2,2,2PA1C_X0663,325,K,Family 2 - Adult 1 - Lineage 115 - TP1,1
+acera118,unknown_CRISPR_type(1E)_119,7,Baker2023,K.1.2,7,5PA1F_X1137,327,K,Family 5 - Adult 1 - Lineage 118 - TP1,1
+acera118,unknown_CRISPR_type(1E)_162,7,Baker2023,K.1.2,7,5PA1F_X1137,327,K,Family 5 - Adult 1 - Lineage 118 - TP1,1
+acera118,unknown_CRISPR_type(1E)_32,6,Baker2023,K.1.2,7,5PA1F_X1137,327,K,Family 5 - Adult 1 - Lineage 118 - TP1,0.857142857142857
+acera125,unknown_CRISPR_type(1E)_119,4,Baker2023,K.1.2,7,8PB4K_25YD71,328,K,Family 8 - Adult 2 - Lineage 125 - TP4,0.571428571428571
+acera125,unknown_CRISPR_type(1E)_162,4,Baker2023,K.1.2,7,8PB4K_25YD71,328,K,Family 8 - Adult 2 - Lineage 125 - TP4,0.571428571428571
+acera125,unknown_CRISPR_type(1E)_32,1,Baker2023,K.1.2,7,8PB4K_25YD71,328,K,Family 8 - Adult 2 - Lineage 125 - TP4,0.142857142857143
+acera125,NA,3,Baker2023,K.1.2,7,8PB4K_25YD71,328,K,Family 8 - Adult 2 - Lineage 125 - TP4,0.428571428571429
+acera128,unknown_CRISPR_type(1E)_119,10,Baker2023,K.1.2,11,2PA3F_Z01_51_23YDC_E351,324,K,Family 2 - Adult 1 - Lineage 128 - TP3,0.909090909090909
+acera128,unknown_CRISPR_type(1E)_162,10,Baker2023,K.1.2,11,2PA3F_Z01_51_23YDC_E351,324,K,Family 2 - Adult 1 - Lineage 128 - TP3,0.909090909090909
+acera128,unknown_CRISPR_type(1E)_32,6,Baker2023,K.1.2,11,2PA3F_Z01_51_23YDC_E351,324,K,Family 2 - Adult 1 - Lineage 128 - TP3,0.545454545454545
+acera128,NA,1,Baker2023,K.1.2,11,2PA3F_Z01_51_23YDC_E351,324,K,Family 2 - Adult 1 - Lineage 128 - TP3,0.0909090909090909
+acera132,NA,2,Baker2023,K.3,2,1PB3F_23YAC3,355,K,Family 1 - Adult 2 - Lineage 132 - TP3,1
+acera3,unknown_CRISPR_type(1E)_119,41,Baker2023,K.1.2,41,7PB4F_Z01_9_23YDC_A99,323,K,Family 7 - Adult 2 - Lineage 3 - TP4,1
+acera3,unknown_CRISPR_type(1E)_162,41,Baker2023,K.1.2,41,7PB4F_Z01_9_23YDC_A99,323,K,Family 7 - Adult 2 - Lineage 3 - TP4,1
+acera3,unknown_CRISPR_type(1E)_32,11,Baker2023,K.1.2,41,7PB4F_Z01_9_23YDC_A99,323,K,Family 7 - Adult 2 - Lineage 3 - TP4,0.268292682926829
+acera31,unknown_CRISPR_type(1E)_162,24,Baker2023,K.1.1,24,2PB1F_S1A03,303,K,Family 2 - Adult 2 - Lineage 31 - TP1,1
+acera31,unknown_CRISPR_type(1E)_32,2,Baker2023,K.1.1,24,2PB1F_S1A03,303,K,Family 2 - Adult 2 - Lineage 31 - TP1,0.0833333333333333
+acera31,unknown_CRISPR_type(1E)_93,24,Baker2023,K.1.1,24,2PB1F_S1A03,303,K,Family 2 - Adult 2 - Lineage 31 - TP1,1
+acera33,unknown_CRISPR_type(1E)_25,25,Baker2023,K.2,25,0CC1F_S1A30,337,K,Researcher - Lineage 33 - TP1,1
+acera33,unknown_CRISPR_type(1E)_32,5,Baker2023,K.2,25,0CC1F_S1A30,337,K,Researcher - Lineage 33 - TP1,0.2
+acera33,unknown_CRISPR_type(1E)_7,25,Baker2023,K.2,25,0CC1F_S1A30,337,K,Researcher - Lineage 33 - TP1,1
+acera35,unknown_CRISPR_type(1E)_119,16,Baker2023,K.1.2,16,0CC2K_S1A53,331,K,Researcher - Lineage 35 - TP2,1
+acera35,unknown_CRISPR_type(1E)_162,16,Baker2023,K.1.2,16,0CC2K_S1A53,331,K,Researcher - Lineage 35 - TP2,1
+acera35,unknown_CRISPR_type(1E)_32,8,Baker2023,K.1.2,16,0CC2K_S1A53,331,K,Researcher - Lineage 35 - TP2,0.5
+acera38,unknown_CRISPR_type(1E)_119,5,Baker2023,K.1.2,5,1PB2C_S1A77,320,K,Family 1 - Adult 2 - Lineage 38 - TP2,1
+acera38,unknown_CRISPR_type(1E)_162,5,Baker2023,K.1.2,5,1PB2C_S1A77,320,K,Family 1 - Adult 2 - Lineage 38 - TP2,1
+acera38,unknown_CRISPR_type(1E)_32,1,Baker2023,K.1.2,5,1PB2C_S1A77,320,K,Family 1 - Adult 2 - Lineage 38 - TP2,0.2
+acera4,unknown_CRISPR_type(1E)_107,8,Baker2023,K.1.2,8,7PB4F_Z01_13_23YDC_B113,311,K,Family 7 - Adult 2 - Lineage 4 - TP4,1
+acera4,unknown_CRISPR_type(1E)_131,8,Baker2023,K.1.2,8,7PB4F_Z01_13_23YDC_B113,311,K,Family 7 - Adult 2 - Lineage 4 - TP4,1
+acera4,unknown_CRISPR_type(1E)_186,8,Baker2023,K.1.2,8,7PB4F_Z01_13_23YDC_B113,311,K,Family 7 - Adult 2 - Lineage 4 - TP4,1
+acera4,unknown_CRISPR_type(1E)_187,8,Baker2023,K.1.2,8,7PB4F_Z01_13_23YDC_B113,311,K,Family 7 - Adult 2 - Lineage 4 - TP4,1
+acera4,unknown_CRISPR_type(1E)_39,8,Baker2023,K.1.2,8,7PB4F_Z01_13_23YDC_B113,311,K,Family 7 - Adult 2 - Lineage 4 - TP4,1
+acera4,unknown_CRISPR_type(1E)_4,8,Baker2023,K.1.2,8,7PB4F_Z01_13_23YDC_B113,311,K,Family 7 - Adult 2 - Lineage 4 - TP4,1
+acera4,unknown_CRISPR_type(1E)_44,8,Baker2023,K.1.2,8,7PB4F_Z01_13_23YDC_B113,311,K,Family 7 - Adult 2 - Lineage 4 - TP4,1
+acera4,unknown_CRISPR_type(1E)_54,8,Baker2023,K.1.2,8,7PB4F_Z01_13_23YDC_B113,311,K,Family 7 - Adult 2 - Lineage 4 - TP4,1
+acera4,unknown_CRISPR_type(1E)_68,8,Baker2023,K.1.2,8,7PB4F_Z01_13_23YDC_B113,311,K,Family 7 - Adult 2 - Lineage 4 - TP4,1
+acera5,unknown_CRISPR_type(1E)_119,93,Baker2023,K.1.2,94,2PA3F_Z01_41_23YDC_D541,321,K,Family 2 - Adult 1 - Lineage 5 - TP3,0.98936170212766
+acera5,unknown_CRISPR_type(1E)_162,93,Baker2023,K.1.2,94,2PA3F_Z01_41_23YDC_D541,321,K,Family 2 - Adult 1 - Lineage 5 - TP3,0.98936170212766
+acera5,unknown_CRISPR_type(1E)_32,20,Baker2023,K.1.2,94,2PA3F_Z01_41_23YDC_D541,321,K,Family 2 - Adult 1 - Lineage 5 - TP3,0.212765957446809
+acera5,NA,1,Baker2023,K.1.2,94,2PA3F_Z01_41_23YDC_D541,321,K,Family 2 - Adult 1 - Lineage 5 - TP3,0.0106382978723404
+acera57,unknown_CRISPR_type(1E)_119,5,Baker2023,K.1.2,5,7PA3C_X1774,330,K,Family 7 - Adult 1 - Lineage 57 - TP3,1
+acera57,unknown_CRISPR_type(1E)_162,5,Baker2023,K.1.2,5,7PA3C_X1774,330,K,Family 7 - Adult 1 - Lineage 57 - TP3,1
+acera57,unknown_CRISPR_type(1E)_32,3,Baker2023,K.1.2,5,7PA3C_X1774,330,K,Family 7 - Adult 1 - Lineage 57 - TP3,0.6
+acera60,unknown_CRISPR_type(1E)_181,154,Baker2023,K.2,156,7AB3N_X1974,343,K,Family 7 - Child 2 - Lineage 60 - TP3,0.987179487179487
+acera60,unknown_CRISPR_type(1E)_22,154,Baker2023,K.2,156,7AB3N_X1974,343,K,Family 7 - Child 2 - Lineage 60 - TP3,0.987179487179487
+acera60,unknown_CRISPR_type(1E)_25,154,Baker2023,K.2,156,7AB3N_X1974,343,K,Family 7 - Child 2 - Lineage 60 - TP3,0.987179487179487
+acera60,unknown_CRISPR_type(1E)_32,15,Baker2023,K.2,156,7AB3N_X1974,343,K,Family 7 - Child 2 - Lineage 60 - TP3,0.0961538461538462
+acera60,unknown_CRISPR_type(1E)_76,153,Baker2023,K.2,156,7AB3N_X1974,343,K,Family 7 - Child 2 - Lineage 60 - TP3,0.980769230769231
+acera60,NA,2,Baker2023,K.2,156,7AB3N_X1974,343,K,Family 7 - Child 2 - Lineage 60 - TP3,0.0128205128205128
+acera62,unknown_CRISPR_type(1E)_131,3,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,1
+acera62,unknown_CRISPR_type(1E)_182,3,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,1
+acera62,unknown_CRISPR_type(1E)_186,3,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,1
+acera62,unknown_CRISPR_type(1E)_187,3,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,1
+acera62,unknown_CRISPR_type(1E)_32,1,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,0.333333333333333
+acera62,unknown_CRISPR_type(1E)_4,3,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,1
+acera62,unknown_CRISPR_type(1E)_48,3,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,1
+acera62,unknown_CRISPR_type(1E)_50,2,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,0.666666666666667
+acera62,unknown_CRISPR_type(1E)_54,3,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,1
+acera62,unknown_CRISPR_type(1E)_62,2,Baker2023,K.1.2,3,5PB3F_24YB12,313,K,Family 5 - Adult 2 - Lineage 62 - TP3,0.666666666666667
+acera63,NA,13,Baker2023,K.3,13,5PB3K_24YB67,356,K,Family 5 - Adult 2 - Lineage 63 - TP3,1
+acera67,unknown_CRISPR_type(1E)_131,52,Baker2023,K.1.2,53,8PB4C_25YD85,312,K,Family 8 - Adult 2 - Lineage 67 - TP4,0.981132075471698
+acera67,unknown_CRISPR_type(1E)_187,52,Baker2023,K.1.2,53,8PB4C_25YD85,312,K,Family 8 - Adult 2 - Lineage 67 - TP4,0.981132075471698
+acera67,unknown_CRISPR_type(1E)_32,15,Baker2023,K.1.2,53,8PB4C_25YD85,312,K,Family 8 - Adult 2 - Lineage 67 - TP4,0.283018867924528
+acera67,unknown_CRISPR_type(1E)_4,52,Baker2023,K.1.2,53,8PB4C_25YD85,312,K,Family 8 - Adult 2 - Lineage 67 - TP4,0.981132075471698
+acera67,unknown_CRISPR_type(1E)_54,52,Baker2023,K.1.2,53,8PB4C_25YD85,312,K,Family 8 - Adult 2 - Lineage 67 - TP4,0.981132075471698
+acera67,unknown_CRISPR_type(1E)_62,52,Baker2023,K.1.2,53,8PB4C_25YD85,312,K,Family 8 - Adult 2 - Lineage 67 - TP4,0.981132075471698
+acera67,NA,1,Baker2023,K.1.2,53,8PB4C_25YD85,312,K,Family 8 - Adult 2 - Lineage 67 - TP4,0.0188679245283019
+acera70,unknown_CRISPR_type(1E)_119,157,Baker2023,K.1.2,160,8AB1N_25YH37,329,K,Family 8 - Child 2 - Lineage 70 - TP1,0.98125
+acera70,unknown_CRISPR_type(1E)_162,157,Baker2023,K.1.2,160,8AB1N_25YH37,329,K,Family 8 - Child 2 - Lineage 70 - TP1,0.98125
+acera70,unknown_CRISPR_type(1E)_32,34,Baker2023,K.1.2,160,8AB1N_25YH37,329,K,Family 8 - Child 2 - Lineage 70 - TP1,0.2125
+acera70,NA,3,Baker2023,K.1.2,160,8AB1N_25YH37,329,K,Family 8 - Child 2 - Lineage 70 - TP1,0.01875
+acera79,NA,8,Baker2023,K.3,8,1AA4K_Z04_21_16YA_D921,358,K,Family 1 - Child 1 - Lineage 79 - TP4,1
+acera81,unknown_CRISPR_type(1E)_119,6,Baker2023,K.1.2,6,2PA3F_Z05_4_16YB_A64,319,K,Family 2 - Adult 1 - Lineage 81 - TP3,1
+acera81,unknown_CRISPR_type(1E)_162,6,Baker2023,K.1.2,6,2PA3F_Z05_4_16YB_A64,319,K,Family 2 - Adult 1 - Lineage 81 - TP3,1
+acera81,unknown_CRISPR_type(1E)_32,1,Baker2023,K.1.2,6,2PA3F_Z05_4_16YB_A64,319,K,Family 2 - Adult 1 - Lineage 81 - TP3,0.166666666666667
+acera82,unknown_CRISPR_type(1E)_119,26,Baker2023,K.1.2,27,2PA3F_Z01_54_23YDC_E654,322,K,Family 2 - Adult 1 - Lineage 82 - TP3,0.962962962962963
+acera82,unknown_CRISPR_type(1E)_162,26,Baker2023,K.1.2,27,2PA3F_Z01_54_23YDC_E654,322,K,Family 2 - Adult 1 - Lineage 82 - TP3,0.962962962962963
+acera82,unknown_CRISPR_type(1E)_32,7,Baker2023,K.1.2,27,2PA3F_Z01_54_23YDC_E654,322,K,Family 2 - Adult 1 - Lineage 82 - TP3,0.259259259259259
+acera82,NA,1,Baker2023,K.1.2,27,2PA3F_Z01_54_23YDC_E654,322,K,Family 2 - Adult 1 - Lineage 82 - TP3,0.037037037037037
+acera9,unknown_CRISPR_type(1E)_119,6,Baker2023,K.1.2,6,7PA3C_X1783,332,K,Family 7 - Adult 1 - Lineage 9 - TP3,1
+acera9,unknown_CRISPR_type(1E)_162,6,Baker2023,K.1.2,6,7PA3C_X1783,332,K,Family 7 - Adult 1 - Lineage 9 - TP3,1
+acera9,unknown_CRISPR_type(1E)_32,2,Baker2023,K.1.2,6,7PA3C_X1783,332,K,Family 7 - Adult 1 - Lineage 9 - TP3,0.333333333333333
+acera92,unknown_CRISPR_type(1E)_105,6,Baker2023,K.2,6,8AC4N_23YBC61,338,K,Family 8 - Child 3 - Lineage 92 - TP4,1
+acera92,unknown_CRISPR_type(1E)_24,6,Baker2023,K.2,6,8AC4N_23YBC61,338,K,Family 8 - Child 3 - Lineage 92 - TP4,1
+acera92,unknown_CRISPR_type(1E)_25,6,Baker2023,K.2,6,8AC4N_23YBC61,338,K,Family 8 - Child 3 - Lineage 92 - TP4,1
+acera92,unknown_CRISPR_type(1E)_32,3,Baker2023,K.2,6,8AC4N_23YBC61,338,K,Family 8 - Child 3 - Lineage 92 - TP4,0.5
+acera92,unknown_CRISPR_type(1E)_86,6,Baker2023,K.2,6,8AC4N_23YBC61,338,K,Family 8 - Child 3 - Lineage 92 - TP4,1
+biogeo25,NA,5,Conwill2022,K.3,5,M|349-Scr-Fo-3_t11,350,K,Adult 13 - Lineage 25,1
+biogeo34,NA,4,Conwill2022,K.3,4,K|341-Scr-Fo-2_t11,349,K,Adult 11 - Lineage 34,1
+biogeo36,unknown_CRISPR_type(1E)_105,4,Conwill2022,K.2,4,B|075-Scr-trBa-1_t00,346,K,Adult 2 - Lineage 36,1
+biogeo36,unknown_CRISPR_type(1E)_108,4,Conwill2022,K.2,4,B|075-Scr-trBa-1_t00,346,K,Adult 2 - Lineage 36,1
+biogeo36,unknown_CRISPR_type(1E)_24,4,Conwill2022,K.2,4,B|075-Scr-trBa-1_t00,346,K,Adult 2 - Lineage 36,1
+biogeo36,unknown_CRISPR_type(1E)_32,1,Conwill2022,K.2,4,B|075-Scr-trBa-1_t00,346,K,Adult 2 - Lineage 36,0.25
+biogeo36,unknown_CRISPR_type(1E)_75,4,Conwill2022,K.2,4,B|075-Scr-trBa-1_t00,346,K,Adult 2 - Lineage 36,1
+biogeo36,unknown_CRISPR_type(1E)_95,4,Conwill2022,K.2,4,B|075-Scr-trBa-1_t00,346,K,Adult 2 - Lineage 36,1
+biogeo36,unknown_CRISPR_type(1E)_98,4,Conwill2022,K.2,4,B|075-Scr-trBa-1_t00,346,K,Adult 2 - Lineage 36,1
+biogeo40,unknown_CRISPR_type(1E)_131,4,Conwill2022,K.1.2,4,R|406-Ext-ChB-7_t15,316,K,Adult 18 - Lineage 40,1
+biogeo40,unknown_CRISPR_type(1E)_182,4,Conwill2022,K.1.2,4,R|406-Ext-ChB-7_t15,316,K,Adult 18 - Lineage 40,1
+biogeo40,unknown_CRISPR_type(1E)_186,4,Conwill2022,K.1.2,4,R|406-Ext-ChB-7_t15,316,K,Adult 18 - Lineage 40,1
+biogeo40,unknown_CRISPR_type(1E)_187,4,Conwill2022,K.1.2,4,R|406-Ext-ChB-7_t15,316,K,Adult 18 - Lineage 40,1
+biogeo40,unknown_CRISPR_type(1E)_4,4,Conwill2022,K.1.2,4,R|406-Ext-ChB-7_t15,316,K,Adult 18 - Lineage 40,1
+biogeo40,unknown_CRISPR_type(1E)_48,4,Conwill2022,K.1.2,4,R|406-Ext-ChB-7_t15,316,K,Adult 18 - Lineage 40,1
+biogeo40,unknown_CRISPR_type(1E)_50,4,Conwill2022,K.1.2,4,R|406-Ext-ChB-7_t15,316,K,Adult 18 - Lineage 40,1
+biogeo40,unknown_CRISPR_type(1E)_54,4,Conwill2022,K.1.2,4,R|406-Ext-ChB-7_t15,316,K,Adult 18 - Lineage 40,1
+biogeo40,unknown_CRISPR_type(1E)_62,4,Conwill2022,K.1.2,4,R|406-Ext-ChB-7_t15,316,K,Adult 18 - Lineage 40,1
+biogeo47,unknown_CRISPR_type(1E)_181,3,Conwill2022,K.2,3,B|310-Scr-tlBa-5_t11,344,K,Adult 2 - Lineage 47,1
+biogeo47,unknown_CRISPR_type(1E)_184,3,Conwill2022,K.2,3,B|310-Scr-tlBa-5_t11,344,K,Adult 2 - Lineage 47,1
+biogeo47,unknown_CRISPR_type(1E)_185,3,Conwill2022,K.2,3,B|310-Scr-tlBa-5_t11,344,K,Adult 2 - Lineage 47,1
+biogeo47,unknown_CRISPR_type(1E)_22,3,Conwill2022,K.2,3,B|310-Scr-tlBa-5_t11,344,K,Adult 2 - Lineage 47,1
+biogeo47,unknown_CRISPR_type(1E)_25,3,Conwill2022,K.2,3,B|310-Scr-tlBa-5_t11,344,K,Adult 2 - Lineage 47,1
+biogeo47,unknown_CRISPR_type(1E)_32,1,Conwill2022,K.2,3,B|310-Scr-tlBa-5_t11,344,K,Adult 2 - Lineage 47,0.333333333333333
+biogeo47,unknown_CRISPR_type(1E)_76,3,Conwill2022,K.2,3,B|310-Scr-tlBa-5_t11,344,K,Adult 2 - Lineage 47,1
+biogeo48,unknown_CRISPR_type(1E)_105,3,Conwill2022,K.2,3,B|078-Ext-trFoBp-2_t00,342,K,Adult 2 - Lineage 48,1
+biogeo48,unknown_CRISPR_type(1E)_24,3,Conwill2022,K.2,3,B|078-Ext-trFoBp-2_t00,342,K,Adult 2 - Lineage 48,1
+biogeo48,unknown_CRISPR_type(1E)_25,3,Conwill2022,K.2,3,B|078-Ext-trFoBp-2_t00,342,K,Adult 2 - Lineage 48,1
+-1,unknown_CRISPR_type(1E)_103,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_131,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_136,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_156,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_186,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_187,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_4,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_50,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_54,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_62,1,Public,K.1.2,1,ERR1959210,309,K,SRA - Unclustered,1
+-1,NA,1,Public,K.3,1,ERR4014742,357,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_119,1,Public,K.1.2,1,ERR4015270,326,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_162,1,Public,K.1.2,1,ERR4015270,326,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_105,1,Public,K.2,1,ERR4808403,347,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_24,1,Public,K.2,1,ERR4808403,347,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_25,1,Public,K.2,1,ERR4808403,347,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_32,1,Public,K.2,1,ERR4808403,347,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_75,1,Public,K.2,1,ERR4808403,347,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_98,1,Public,K.2,1,ERR4808403,347,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_140,1,Public,-1,1,SRR088926,336,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_32,1,Public,-1,1,SRR088926,336,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_45,1,Public,-1,1,SRR088926,336,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_73,1,Public,-1,1,SRR088926,336,K,SRA - Unclustered,1
+-1,NA,1,Public,K.3,1,SRR088951,352,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_105,1,Public,K.2,1,SRR088955,341,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_25,1,Public,K.2,1,SRR088955,341,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_32,1,Public,K.2,1,SRR088955,341,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_101,1,Public,K.1.2,1,SRR088966,334,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_104,1,Public,K.1.2,1,SRR088966,334,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_119,1,Public,K.1.2,1,SRR088966,334,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_162,1,Public,K.1.2,1,SRR088966,334,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_17,1,Public,K.1.2,1,SRR088966,334,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_188,1,Public,K.1.2,1,SRR088966,334,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_37,1,Public,K.1.2,1,SRR088966,334,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_65,1,Public,K.1.2,1,SRR088966,334,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_84,1,Public,K.1.2,1,SRR088966,334,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_101,1,Public,K.1.2,1,SRR089417,335,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_104,1,Public,K.1.2,1,SRR089417,335,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_119,1,Public,K.1.2,1,SRR089417,335,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_162,1,Public,K.1.2,1,SRR089417,335,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_17,1,Public,K.1.2,1,SRR089417,335,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_188,1,Public,K.1.2,1,SRR089417,335,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_37,1,Public,K.1.2,1,SRR089417,335,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_65,1,Public,K.1.2,1,SRR089417,335,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_84,1,Public,K.1.2,1,SRR089417,335,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_25,1,Public,K.2,1,SRR089420,345,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_32,1,Public,K.2,1,SRR089420,345,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_98,1,Public,K.2,1,SRR089420,345,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_119,1,Public,K.1.2,1,SRR10389220,318,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_162,1,Public,K.1.2,1,SRR10389220,318,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_32,1,Public,K.1.2,1,SRR10389220,318,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_81,1,Public,K.1.2,1,SRR10389220,318,K,SRA - Unclustered,1
+-1,NA,1,Public,K.1.1,1,SRR3150809,308,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_131,1,Public,K.1.2,1,SRR3150841,315,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_186,1,Public,K.1.2,1,SRR3150841,315,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_187,1,Public,K.1.2,1,SRR3150841,315,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_32,1,Public,K.1.2,1,SRR3150841,315,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_4,1,Public,K.1.2,1,SRR3150841,315,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_50,1,Public,K.1.2,1,SRR3150841,315,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_54,1,Public,K.1.2,1,SRR3150841,315,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_62,1,Public,K.1.2,1,SRR3150841,315,K,SRA - Unclustered,1
+-1,NA,1,Public,K.2,1,SRR3152045,348,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_150,1,Public,-1,1,SRR3152096,302,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_55,1,Public,-1,1,SRR3152096,302,K,SRA - Unclustered,1
+-1,NA,1,Public,K.3,1,SRR755365,351,K,SRA - Unclustered,1
+-1,NA,1,Public,K.2,1,SRR7618028,339,K,SRA - Unclustered,1
+-1,NA,1,Public,K.2,1,SRR7618031,340,K,SRA - Unclustered,1
+-1,NA,1,Public,K.1.1,1,SRR7618033,307,K,SRA - Unclustered,1
+-1,NA,1,Public,K.1.1,1,SRR7618055,304,K,SRA - Unclustered,1
+-1,NA,1,Public,K.1.1,1,SRR7618056,306,K,SRA - Unclustered,1
+-1,NA,1,Public,K.1.1,1,SRR7618058,305,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_101,1,Public,K.1.2,1,SRR7771806,333,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_162,1,Public,K.1.2,1,SRR7771806,333,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_17,1,Public,K.1.2,1,SRR7771806,333,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_188,1,Public,K.1.2,1,SRR7771806,333,K,SRA - Unclustered,1
+-1,unknown_CRISPR_type(1E)_65,1,Public,K.1.2,1,SRR7771806,333,K,SRA - Unclustered,1
+-1,NA,1,Public,K.3,1,SRR835790,353,K,SRA - Unclustered,1
+-1,NA,1,Public,K.3,1,SRR835791,354,K,SRA - Unclustered,1

@@ -1,0 +1,48 @@
+Spacer_ID,Plot_Label,IMGdb,n_contigs,median_contig_length,Notes,Ref,Protospacer_start,Protospacer_end,Percent_identity,mismatches
+unknown_CRISPR_type(1E)_105,TadE Linear Plasmid,IMGPR,904,41115,,CP003294_homologous_region_length_31925,8946,8977,100,0
+unknown_CRISPR_type(1E)_108,TadE Linear Plasmid,IMGPR,3,47730,
+unknown_CRISPR_type(1E)_119,TadE Linear Plasmid,IMGPR,740,54475.5,
+unknown_CRISPR_type(1E)_181,TadE Linear Plasmid,IMGPR,759,41357,,CP003294_homologous_region_length_31925,22830,22862,100,0
+unknown_CRISPR_type(1E)_184,TadE Linear Plasmid,IMGPR,3,47730,
+unknown_CRISPR_type(1E)_185,TadE Linear Plasmid,IMGPR,3,47730,
+unknown_CRISPR_type(1E)_187,TadE Linear Plasmid,IMGPR,901,41115,,CP003294_homologous_region_length_31925,14045,14077,96.96969697,1
+unknown_CRISPR_type(1E)_22,TadE Linear Plasmid,IMGPR,894,41116.5,,CP003294_homologous_region_length_31925,20807,20839,100,0
+unknown_CRISPR_type(1E)_62,TadE Linear Plasmid,IMGPR,4,46349.5,
+unknown_CRISPR_type(1E)_7,TadE Linear Plasmid,IMGPR,889,41143,,CP003294_homologous_region_length_31925,11146,11177,93.75,2
+unknown_CRISPR_type(1E)_75,TadE Linear Plasmid,IMGPR,NA,NA,Matches to a TadE Linear Plasmid observed in Cutibacterium humerusii isolate genomes: IMGPR_TadE Linear Plasmid_2869088689_000001|2869088689|2869088692
+unknown_CRISPR_type(1E)_86,TadE Linear Plasmid,IMGPR,836,41276.5,,CP003294_homologous_region_length_31925,14100,14131,100,0
+unknown_CRISPR_type(1E)_93,TadE Linear Plasmid,IMGPR,822,41365,,CP003294_homologous_region_length_31925,15080,15110,100,0
+unknown_CRISPR_type(1E)_95,TadE Linear Plasmid,IMGPR,188,41980.5,
+unknown_CRISPR_type(1E)_98,TadE Linear Plasmid,IMGPR,913,41095,,CP003294_homologous_region_length_31925,4993,5025,100,0
+unknown_CRISPR_type(1E)_101,Pseudolysogen,IMGVR,30,29609,,NC_028967.1,5368,5399,96.875,1
+unknown_CRISPR_type(1E)_103,Pseudolysogen,IMGVR,30,29609,,NC_028967.1,6497,6529,93.93939394,2
+unknown_CRISPR_type(1E)_107,Pseudolysogen,IMGVR,29,29646,,NC_028967.1,4573,4605,100,0
+unknown_CRISPR_type(1E)_131,Pseudolysogen,IMGVR,31,29572,,NC_028967.1,2733,2765,93.93939394,2
+unknown_CRISPR_type(1E)_136,Pseudolysogen,IMGVR,NA,NA,Matches a low quality sequence: IMGVR_UViG_3300007365_000003|3300007365|Ga0104975_10136
+unknown_CRISPR_type(1E)_140,Pseudolysogen,IMGVR,23,29667,,NC_028967.1,11710,11740,93.5483871,2
+unknown_CRISPR_type(1E)_156,Pseudolysogen,IMGVR,26,29657.5,,NC_028967.1,17120,17152,93.93939394,2
+unknown_CRISPR_type(1E)_17,Pseudolysogen,IMGVR,27,29648,,NC_028967.1,21578,21609,90.625,3
+unknown_CRISPR_type(1E)_182,Pseudolysogen,IMGVR,29,29646,,NC_028967.1,13256,13287,90.625,3
+unknown_CRISPR_type(1E)_188,Pseudolysogen,IMGVR,25,29648,,NC_028967.1,22703,22734,96.875,1
+unknown_CRISPR_type(1E)_37,Pseudolysogen,IMGVR,14,29695,
+unknown_CRISPR_type(1E)_39,Pseudolysogen,IMGVR,NA,NA,Matches a high quality sequence: IMGVR_UViG_3300013222_000001|3300013222|Ga0118252_100001
+unknown_CRISPR_type(1E)_4,Pseudolysogen,IMGVR,31,29572,,NC_028967.1,5885,5917,93.93939394,2
+unknown_CRISPR_type(1E)_44,Pseudolysogen,IMGVR,28,29647,
+unknown_CRISPR_type(1E)_55,Pseudolysogen,IMGVR,25,29667,,NC_028967.1,13823,13855,93.93939394,2
+unknown_CRISPR_type(1E)_65,Pseudolysogen,IMGVR,26,29657.5,,NC_028967.1,9289,9320,100,0
+unknown_CRISPR_type(1E)_68,Pseudolysogen,IMGVR,30,29609,,NC_028967.1,8706,8738,100,0
+unknown_CRISPR_type(1E)_84,Pseudolysogen,IMGVR,18,29673,,NC_028967.1,17758,17789,96.875,1
+unknown_CRISPR_type(1E)_104,No hits,NA,NA,NA,
+unknown_CRISPR_type(1E)_150,Pseudolysogen,NA,28,29647,,NC_028967.1,18479,18511,96.96969697,1
+unknown_CRISPR_type(1E)_162,No hits,NA,11,247347,Hits defunct Crispr loci
+unknown_CRISPR_type(1E)_186,No hits,NA,NA,NA,
+unknown_CRISPR_type(1E)_24,No hits,NA,NA,NA,
+unknown_CRISPR_type(1E)_25,No hits,NA,1,294580,Hits defunct Crispr loci
+unknown_CRISPR_type(1E)_32,No hits,NA,491,294325,Hits defunct Crispr loci
+unknown_CRISPR_type(1E)_45,No hits,NA,NA,NA,
+unknown_CRISPR_type(1E)_48,No hits,NA,NA,NA,
+unknown_CRISPR_type(1E)_50,No hits,NA,NA,NA,
+unknown_CRISPR_type(1E)_54,No hits,NA,1,1614,
+unknown_CRISPR_type(1E)_73,No hits,NA,NA,NA,
+unknown_CRISPR_type(1E)_76,TadE Linear Plasmid,NA,835,41338,,CP003294_homologous_region_length_31925,11109,11139,96.77419355,1
+unknown_CRISPR_type(1E)_81,No hits,NA,NA,NA,
