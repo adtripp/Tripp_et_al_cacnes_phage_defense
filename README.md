@@ -2,7 +2,9 @@
 
 This repository contains all code necessary to reproduce the analyses described in:
 
-*Citation: Phage-mediated lysis does not determine Cutibacterium acnes colonization on human skin
+**Tripp, A. D.**, Qu, E. B., Baker, J. S., Mancuso, C., Roux, S., Hussain, F. A., & Lieberman, T. D. “Phage-mediated lysis does not determine Cutibacterium acnes colonization on human skin”. bioRxiv, 2025-09.
+
+
 
 This project is part of my postdoctoral research in the Lieberman Lab (https://lieberman.science/research/).
 
