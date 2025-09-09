@@ -6,7 +6,7 @@ This repository contains all code necessary to reproduce the analyses described 
 
 
 
-This project is part of my postdoctoral research in the Lieberman Lab (https://lieberman.science/research/).
+This project is part of my doctoral research in the Lieberman Lab (https://lieberman.science/research/).
 
 Overview
 
