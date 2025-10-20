@@ -21,28 +21,34 @@ To reproduce the results from the paper:
    Download raw genomic and metagenomic data from the sources listed in the paper (Tables S1 and S5).
 
 2. **Run genomic analyses**  
+
+   These scripts performs genome assembly, annotation, defense system detection, and phylogenetic reconstruction.
+
 ```bash
 isolate_genome_analysis/Crispr_cas_spacer_analysis/ # CRISPR array and spacer analyses
 isolate_genome_analysis/DefenseFinder_Cacnes_genomes/  # Anti-phage defense systems detection in C. acnes isolate genomes
 isolate_genome_analysis/DefenseFinder_Wiki_Resource/  # Anti-phage defense systems in other skin-associated genera
 isolate_genome_analysis/Gene_gain_loss_analysis/  # Ancestral trait reconstruction of C. acnes accessory genome
-isolate_genome_analysis/MGE_presence_analysis/  # Cariiage of prophages and plasmids across C. acnes isolate genomes
+isolate_genome_analysis/MGE_presence_analysis/  # Carriage of prophages and plasmids across C. acnes isolate genomes
 ```
-   These scripts performs genome assembly, annotation, defense system detection, and phylogenetic reconstruction.
 
 3. **Run metagenomic analyses**  
+
+   These scripts processes metagenomic reads, calculates virus-to-microbe ratios, and estimates strain-level diversity using PHLAME.
+
 ```bash
 cacnes_skin_metagenomes_analysis/1_bracken_plots  # Bracken results
 cacnes_skin_metagenomes_analysis/2_phlame_plots  # PHLAME results
 cacnes_skin_metagenomes_analysis/3_vmr_plots  # Virus-to-mircobe ratio results
 ```
-   These scripts processes metagenomic reads, calculates virus-to-microbe ratios, and estimates strain-level diversity using PHLAME.
 
 4. **Run growth curve and phage infectivity assay analyses**  
+
+   This script processes OD600 time series data and calculates growth rate.
+
 ```bash
 liquid_phage_infection_assay/growth_curve.py # OD600 and growth data
 ```
-   This script processes OD600 time series data and calculates growth rate.
    
 ---
 
