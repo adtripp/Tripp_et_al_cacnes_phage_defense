@@ -35,22 +35,7 @@ global_skin_metadata <- read_csv("global_skin_metadata.csv")
 
 ####
 #Load in bracken concatenated output and extract total reads and fraction C. acnes
-bracken <- read_csv("merged_bracken_output.csv",
-                    col_types = cols(taxonomy_id = col_skip(),
-                                     taxonomy_lvl = col_skip(),
-                                     kraken_assigned_reads = col_skip(),
-                                     added_reads = col_skip(),
-                                     fraction_total_reads = col_skip()) )
-head(bracken)
-names(bracken)[1] = "taxa"
-bracken = bracken %>% 
-  filter(!grepl("Homo sapiens", taxa)) %>% 
-  group_by(filenames) %>%
-  mutate(SampleName = gsub(".bracken","",filenames),
-         tot_reads = sum(new_est_reads)) %>%
-  ungroup() %>%
-  select(SampleName, tot_reads, taxa, new_est_reads) %>%
-  filter(!is.na(taxa))
+bracken <- read_csv("merged_bracken_output.csv")
 head(bracken)
 
 
